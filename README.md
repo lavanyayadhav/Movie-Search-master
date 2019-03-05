@@ -1,2 +1,5 @@
-# Movie-Search-master
-This application will give you the movie details and poster of the movie when you search for it.
+# Movie-Search (like IMDB)
+Implemented JavaScript that uses OMDB API to receive movie's information 
+
+Visit: http://www.omdbapi.com - to get your API.
+
